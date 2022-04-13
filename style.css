@@ -49,8 +49,7 @@ body {
 }
 
 body {
-  background: white;
-  background-image: url(./background-img.png);
+  background-image: url(./images/background-image.png);
   background-size: cover;
 }
 
@@ -161,7 +160,6 @@ body {
 
 .눈동자:hover {
   animation: 눈돌아가기 3s infinite alternate;
-  /* animation-delay: 1s; */
 }
 
 .연지곤지.왼쪽 {
